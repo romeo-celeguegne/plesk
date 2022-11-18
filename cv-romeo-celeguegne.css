@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+    color: black;
+}
+h4{
+    text-align: center;
+    color: black;
+}
+p{
+    text-align: center;
+    color: red;
+}
+img {
+    border-radius: 100%;
+}
+
+body{
+    font-family: 'Homenaje', sans-serif;
+    background-image: url(https://images.alphacoders.com/106/1062064.jpg);
+    background-size: 200%;
+}
+a{
+    color: red;
+    text-align: right;
+}
